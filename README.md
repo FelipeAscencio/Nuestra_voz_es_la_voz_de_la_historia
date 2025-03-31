@@ -1,3 +1,9 @@
-# Nuestra voz es la voz de la historia
+# Sitio Web Oficial de 'Nuestra voz es la voz de la historia'
 
-This branch contains the entire implementation of the migrated page in the "Css, Html and Javascript" technologies.
+## Desarrollado por: Felipe Santino Ascencio.
+
+### Contacto:
+
+[GITHUB](https://github.com/FelipeAscencio)
+
+[LINKEDIN](https://www.linkedin.com/in/felipe-santino-ascencio-ab6444211/)
