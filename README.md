@@ -44,6 +44,10 @@ The website also features technical optimization that facilitates search engine 
 
 ## Responsive Design
 
-While not all possible optimizations have been implemented to achieve a fully responsive design, several measures have been taken to ensure proper display on most devices. These include using relative units, setting minimum and maximum values ​​for elements, and adjusting margins and borders based on screen size, allowing the site to adapt with minimal changes to most devices.
+This new version of the project includes the necessary adaptations for a responsive design that greatly improves the user experience on mobile devices.
 
-In future versions, i will seek to optimize this section to improve the user experience.
+Up to 770 pixels wide, the website is configured and behaves in a mobile-friendly format, both visually and functionally.
+
+Then, starting at 770 pixels wide, it is configured and behaves in a desktop/TV-friendly format, both visually and functionally.
+
+With this new version, we achieve a pleasant experience for all types of users browsing the website.
