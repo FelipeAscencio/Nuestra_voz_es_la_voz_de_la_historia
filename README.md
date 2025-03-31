@@ -34,6 +34,14 @@ The sole purpose of this site is historical and documentary, with no commercial 
 
 If any future functionality requires data collection, this policy will be updated to ensure transparency and respect for user privacy.
 
+## SEO (Search Engine Optimization)
+
+The website has been developed following the fundamental principles of SEO (Search Engine Optimization) to ensure optimal visibility and performance in search engines. Special attention has been given to content quality and relevance, proper use of keywords, image optimization, and the creation of user-friendly URLs.
+
+Additionally, an intuitive navigation system and fast load times have been implemented to provide a superior user experience across all devices.
+
+The website also features technical optimization that facilitates search engine indexing, as well as the integration of quality links and an effective backlink strategy. This comprehensive approach helps improve the website's position in organic search results, attracting relevant and consistent traffic.
+
 ## Responsive Design
 
 While not all possible optimizations have been implemented to achieve a fully responsive design, several measures have been taken to ensure proper display on most devices. These include using relative units, setting minimum and maximum values ​​for elements, and adjusting margins and borders based on screen size, allowing the site to adapt with minimal changes to most devices.
